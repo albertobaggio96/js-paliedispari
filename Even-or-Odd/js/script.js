@@ -43,7 +43,7 @@ const winner= isWin(chooseOddOrEven, sumMeAndComputer);
 
 
 console.log(myNumber);
-console.log(oddOrEven);
+console.log(chooseOddOrEven);
 console.log(computerNumber);
 console.log("result", sumMeAndComputer);
 console.log(winner);
